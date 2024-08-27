@@ -5,10 +5,10 @@ function FullStackDevelopment() {
   return (
     <div>
       <br />
-      <h1 className="text-center">FullStackDevelopment</h1>
+      <h1 className="text-center">Full Stack Development</h1>
       <br />
       <Card className=" me-5 ms-5 bs">
-        <Card.Header className="text-center">FullStackDevelopment</Card.Header>
+        <Card.Header className="text-center"><b>Full Stack Development</b></Card.Header>
         <Card.Body>
           Eduonix introduces it's biggest and best course yet! To cater to the
           changing role of developers and technologies around the world, we have
