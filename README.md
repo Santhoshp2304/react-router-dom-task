@@ -11,4 +11,4 @@ react-router-dom
 please install react-router-dom bootstrap and react-bootstrap 
 
 # Deployed URL :
-https://66cdd964d1e9df044a8068b3--bright-alfajores-59edba.netlify.app/
+https://66ce24e3f3cc216e6d0ee7ce--melodious-vacherin-843cca.netlify.app/
